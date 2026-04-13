@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fabrizioabb-ai/TC3005B.502-fabrizio"
+    "url": "git+https://github.com/fabrizioabb-ai/TC3005B.502-fabrizio.git"
   },
   "dependencies": {
     "express": "^4.18.2",
